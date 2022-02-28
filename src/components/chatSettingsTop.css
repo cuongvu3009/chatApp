@@ -1,0 +1,13 @@
+.setting-container {
+  padding: 20px;
+}
+
+.setting-btn {
+  padding: 15px;
+  background-color: rgb(69, 113, 236);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
